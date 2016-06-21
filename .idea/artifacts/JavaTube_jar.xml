@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaTube:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaTube_jar</output-path>
+    <root id="archive" name="JavaTube.jar">
+      <element id="module-output" name="JavaTube" />
+    </root>
+  </artifact>
+</component>
